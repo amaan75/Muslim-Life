@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Muslim-Life</string>
     <string name="main_heading">Today\'s Timings</string>
+    <string name="morning_prayer">Fajr</string>
+    <string name="noon_prayer">Duhr</string>
+    <string name="early_evening_prayer">Asr</string>
+    <string name="late_evening_prayer">Magrib</string>
+    <string name="night_prayer">Isha</string>
+    <string name="sunrise">Sunrise</string>
 </resources>
